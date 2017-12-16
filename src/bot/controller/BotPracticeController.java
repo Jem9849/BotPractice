@@ -2,9 +2,12 @@ package bot.controller;
 
 import net.dv8tion.jda.JDA;
 
-public class BotPracticeController {
+public class BotPracticeController
+{
+	JDA 
 
-	public static void main(String[] args) {
+	public static void main(String[] args)
+	{
 		
 
 	}

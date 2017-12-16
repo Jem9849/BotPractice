@@ -1,6 +1,7 @@
 # Compiled class file
 bin/ 
 *.class 
+.classpath
 .DS_Store
 Thumbs.db
 
